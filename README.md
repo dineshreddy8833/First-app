@@ -1,1 +1,1 @@
-# digitallync-clone this is the web page created by dinesh first time
+# digitallync-clone web page created for practice pursose
